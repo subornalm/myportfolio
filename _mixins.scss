@@ -1,0 +1,12 @@
+@mixin button($color){
+    background-color:$color;
+    padding: 10px 28px;
+    margin:-5px 6px 15px 4px;
+    border-radius: 8px;
+    border: none;
+    color: aliceblue;
+    border:2px solid transparent ;
+    font-size: 18px;
+    font-weight: 600;
+   
+}
